@@ -1,0 +1,7 @@
+/*! default extra styles no changes */
+#bg{
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:-1;
+}
